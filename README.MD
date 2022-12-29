@@ -7,6 +7,7 @@
 
 ### Some examples 
 ```python
+$pip install fake-read-write-files
 import pandas as pd
 import cv2
 from PIL import Image
